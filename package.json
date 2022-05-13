@@ -1,0 +1,19 @@
+{
+    "name": "algorandalgo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "api.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "kartik swarnkar",
+    "license": "ISC",
+    "dependencies": {
+      "algosdk": "^1.16.0",
+      "express": "^4.18.1",
+      "moment-timezone": "^0.5.34",
+      "request": "^2.88.2",
+      "simple-node-logger": "^21.8.12"
+    }
+  }
+  
